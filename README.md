@@ -22,9 +22,9 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/sonaDevLab/BakerPro">
-        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
+        <img src="images/bakerPro_logo.png"
              alt="BakerPro App"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:70%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>🍞 BakerPro App</b><br/>
