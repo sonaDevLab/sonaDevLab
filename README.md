@@ -18,31 +18,49 @@
 
 ## 🚀 Featured Projects
 
-### 📊 Task Manager API
-RESTful backend application to manage tasks and users.
-
-**Tech Stack:** Java, Spring Boot, MySQL  
-
-**Key Features**
-- User authentication
-- CRUD operations for tasks
-- REST API architecture
-
-🔗 Repository: https://github.com/sonadevlab/TaskFlow
-
----
-
-### 🌐 Portfolio Website
-Personal portfolio website to showcase my work and technical skills.
-
-**Tech Stack:** HTML, CSS, JavaScript  
-
-**Key Features**
-- Responsive design
-- Project showcase
-- Contact section
-
-🔗 Repository: https://github.com/sonadevlab/portfolio_demo
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/sonaDevLab/BakerPro">
+        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
+             alt="BakerPro App"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>BakerPro App</b><br/>
+      <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
+      🔗 <a href="https://github.com/sonaDevLab/BakerPro">Repo</a>
+      <br/>
+      <sub>Tags: AI, LLMs, Prompt Engineering</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/sonaDevLab/TaskFlow">
+        <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
+             alt="TaskFlow API"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>TaskFlow API</b><br/>
+      <sub>Automated deployment of a web app using GitHub Actions and AWS ECS.</sub><br/>
+      🔗 <a href="https://github.com/sonaDevLab/TaskFlow">Repo</a>
+      <br/>
+      <sub>Tags: DevOps, Docker, GitHub Actions</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/sonaDevLab/PasswordGenerator">
+        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
+             alt="Password Generator"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Password Generator</b><br/>
+      <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
+      🔗 <a href="https://github.com/sonaDevLab/PasswordGenerator">Repo</a>
+      <br/>
+      <sub>Tags: AI, LLMs, Prompt Engineering</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
