@@ -27,7 +27,7 @@
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>BakerPro App</b><br/>
+      <b>🍞 BakerPro App</b><br/>
       <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
       🔗 <a href="https://github.com/sonaDevLab/BakerPro">Repo</a>
       <br/>
@@ -35,12 +35,12 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/sonaDevLab/TaskFlow">
-        <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
+        <img src="images/taskflow_preview.png"
              alt="TaskFlow API"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:70%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>TaskFlow API</b><br/>
+      <b>📌 TaskFlow API</b><br/>
       <sub>Automated deployment of a web app using GitHub Actions and AWS ECS.</sub><br/>
       🔗 <a href="https://github.com/sonaDevLab/TaskFlow">Repo</a>
       <br/>
@@ -53,7 +53,7 @@
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Password Generator</b><br/>
+      <b>🔐 Password Generator</b><br/>
       <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
       🔗 <a href="https://github.com/sonaDevLab/PasswordGenerator">Repo</a>
       <br/>
