@@ -48,9 +48,9 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/sonaDevLab/PasswordGenerator">
-        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
+        <img src="images/pass_generator_preview.png"
              alt="Password Generator"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:70%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>🔐 Password Generator</b><br/>
