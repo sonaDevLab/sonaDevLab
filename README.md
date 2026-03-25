@@ -28,7 +28,7 @@
       </a>
       <br/>
       <b>🍞 BakerPro App</b><br/>
-      <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
+      <sub>Mobile App designed to manage inventory, sales and daily routes efficiently.</sub><br/>
       🔗 <a href="https://github.com/sonaDevLab/BakerPro">Repo</a>
       <br/>
       <sub>Tags: Kotlin, Firebase, Mobile App</sub>
@@ -41,7 +41,7 @@
       </a>
       <br/>
       <b>📌 TaskFlow API</b><br/>
-      <sub>Automated deployment of a web app using GitHub Actions and AWS ECS.</sub><br/>
+      <sub>Task managment built with Spring Boot and JWT secure authentication.</sub><br/>
       🔗 <a href="https://github.com/sonaDevLab/TaskFlow">Repo</a>
       <br/>
       <sub>Tags: Java, Deploy, JWS Security</sub>
@@ -54,7 +54,7 @@
       </a>
       <br/>
       <b>🔐 Password Generator</b><br/>
-      <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
+      <sub>Built to allow users to create secure passwords using customizable filters and a history feature.</sub><br/>
       🔗 <a href="https://github.com/sonaDevLab/PasswordGenerator">Repo</a>
       <br/>
       <sub>Tags: Javascript, CSS, Filters</sub>
