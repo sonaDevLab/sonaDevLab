@@ -31,7 +31,7 @@
       <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
       🔗 <a href="https://github.com/sonaDevLab/BakerPro">Repo</a>
       <br/>
-      <sub>Tags: AI, LLMs, Prompt Engineering</sub>
+      <sub>Tags: Kotlin, Firebase, Mobile App</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/sonaDevLab/TaskFlow">
@@ -44,7 +44,7 @@
       <sub>Automated deployment of a web app using GitHub Actions and AWS ECS.</sub><br/>
       🔗 <a href="https://github.com/sonaDevLab/TaskFlow">Repo</a>
       <br/>
-      <sub>Tags: DevOps, Docker, GitHub Actions</sub>
+      <sub>Tags: Java, Deploy, JWS Security</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/sonaDevLab/PasswordGenerator">
@@ -57,7 +57,7 @@
       <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
       🔗 <a href="https://github.com/sonaDevLab/PasswordGenerator">Repo</a>
       <br/>
-      <sub>Tags: AI, LLMs, Prompt Engineering</sub>
+      <sub>Tags: Javascript, CSS, Filters</sub>
     </td>
   </tr>
 </table>
