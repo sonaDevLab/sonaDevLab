@@ -82,7 +82,7 @@
 ## 📫 Links
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
-- [**Portfolio**]()
+- [**Portfolio**](https://github.com/sonaDevLab)
 - [**Contact**](mailto:sonaivanyan@gmail.com)
 
 <a href="https://www.linkedin.com/in/sona-ivanyan-8198a7224/" target="blank">
