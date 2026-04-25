@@ -34,7 +34,7 @@
       <sub>Tags: Kotlin, Firebase, Mobile App</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/sonaDevLab/TaskFlow">
+      <a href="https://task-flow-nine-flax.vercel.app">
         <img src="images/taskflow_preview.png"
              alt="TaskFlow API"
              style="width:70%; height:200px; object-fit:cover;"/>
